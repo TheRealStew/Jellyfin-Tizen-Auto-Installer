@@ -1,8 +1,8 @@
 <h1 align="center">Jellyfin Tizen Installer</h1>
 
-Jellyfin samsung app installer
-Installer by: TheRealStew4k
-jellyfin Tizen by: Jellyfin
+<br>Jellyfin samsung TV app installer </br>
+<br>Installer by: TheRealStew4k</br>
+<br>jellyfin Tizen by: Jellyfin</br>
 
 ### Prerequisites
 * Tizen Studio with IDE or Tizen Studio with CLI (<a href="https://developer.tizen.org/development/tizen-studio/download">https://developer.tizen.org/development/tizen-studio/download</a>)
