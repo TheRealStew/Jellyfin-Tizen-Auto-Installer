@@ -19,5 +19,5 @@
 4. Setup Samsung certificate <sup>_need Samsung account_</sup> in Certificate Manager.
 5. MUST EDIT JellyFin-Tizen-Installer.ps1 FILE EDIT WHERE IT SAYS Change_me_your_tv_ID #EDIT ME line 61
 6. right click JellyFin-Tizen-Installer.ps1 and run with powershell
-7. Fullscreen powershell follow directions
+7. Full screen powershell follow directions
 
