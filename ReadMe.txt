@@ -3,6 +3,7 @@
 / // / -_) / / // / _/ / _ \    / / / /_ / -_) _ \  _/ // _ \(_-< __/ _ `/ / / -_) __/
 \___/\__/_/_/\_, /_//_/_//_/   /_/ /_//__|__/_//_/ /___/_//_/___|__/\_,_/_/_/\__/_/   
             /___/                                                                                                                                      
+Jellyfin samsung app installer
 Installer by: TheRealStew4k
 jellyfin Tizen by: Jellyfin
 For tv installer to work
