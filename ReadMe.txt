@@ -8,4 +8,5 @@ Installer by: TheRealStew4k
 jellyfin Tizen by: Jellyfin
 For tv installer to work
 MUST EDIT JellyFin-Tizen-Installer.ps1 FILE EDIT WHERE IT SAYS Change_me_your_tv_ID #EDIT ME line 61
+right click and run with powershell
 
