@@ -1,7 +1,7 @@
 <h1 align="center">Jellyfin Tizen Installer</h1>
 
 <br>Jellyfin samsung TV app installer </br>
-<br>Installer by: TheRealStew4k</br>
+<br>Installer by: 𝕾𝖙𝖊ω™#9999</br>
 <br>jellyfin Tizen by: Jellyfin</br>
 
 ### Prerequisites
